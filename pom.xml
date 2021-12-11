@@ -14,7 +14,7 @@
 	<packaging>war</packaging>
 	<name>clico4BackEndProductos</name>
 	<description>Tienda Backend Mongo</description>
-	<properties>
+ 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
